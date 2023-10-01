@@ -1,5 +1,5 @@
 
-public class Assignment_01_ifelse {
+public class Assignment_01_ifelse1 {
     public static void main(String[] args) {
         int var=0;
 
